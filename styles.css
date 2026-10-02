@@ -20,7 +20,7 @@ a{color:inherit}
   border-bottom:1px solid var(--line);
 }
 .nav{min-height:78px;display:flex;align-items:center;justify-content:space-between;gap:28px}
-.logo { display: inline-flex; align-items: center; gap: 10px; font-size: 1.5rem; font-weight: 800; letter-spacing: .11em; text-decoration: none; } .logo-image { display: block; width: auto; height: 12px; max-width: 20px; object-fit: contain; }
+.logo { display: inline-flex; align-items: center; gap: 10px; font-size: 1.5rem; font-weight: 800; letter-spacing: .11em; text-decoration: none; } .logo-image { display: block; width: auto; height: 24px; max-width: 40px; object-fit: contain; }
 .nav-links{display:flex;gap:23px;align-items:center}
 .nav-links a{text-decoration:none;color:#394550;font-size:.93rem}
 .nav-links a:hover,.nav-links a.active{color:var(--accent)}
